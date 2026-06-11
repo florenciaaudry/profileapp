@@ -14,8 +14,7 @@ Aplikasi **ProfileApp** adalah aplikasi manajemen profil berbasis Android yang d
 ---
 
 ## 🎥 Video Demo & Penjelasan
-> **[KLIK DI SINI UNTUK MELIHAT VIDEO DEMO](MASUKKAN_LINK_VIDEO_KAMU)**
-> *(Video menjelaskan alur Login, Dashboard, hingga proses Update Profile secara real-time)*
+https://youtu.be/cgfWIQb05kk
 
 ---
 
